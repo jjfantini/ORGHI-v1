@@ -1,0 +1,101 @@
+🧵
+•SP500 [SPX]•
+
+we're going to answer the basics behind the Standars & Poor's 500 index 
+
+•WHAT is it?•
+•HOW to interpret it?•
+•WHY to be aware of it?•
+
+
+#fractalFinanceFriday
+
+**many people already know this but it always good to look at the fine print**
+-----------------------------------------------------------------------------------------------
+WHAT:
+- mcap weighted index of 500 publicly (currently 504 constituents) traded companies 
+- there are a few other filters that determine entry into the index, so not solely just largest 500 companies by mcap
+- float-weighted index, weight of company is adjusted by # of...
+
+/2
+-----------------------------------------------------------------------------------------------
+...shares available to trade, thus more liquid equities will hold a heavier weight in the index
+- you cannot invest directly in the SP500 since it is an index, you must invest in a ETF or other product that tracks/mirrors its composition and performance
+ i.e $SPY or $VOO
+
+/3
+-----------------------------------------------------------------------------------------------
+- quarterly rebalancing of equity weights in the index 
+- top 50 holdings are rebalanced annually 
+
+FORMULA:
+stock weight = (stock mcap)/(total SP500 mcap)
+- there is a higher allocation of an equity with a larger market cap, hence why $AAPL is the top holding ($2.41T mcap)
+
+/4
+
+-----------------------------------------------------------------------------------------------
+- there are also the SP1200, SP400 (midcap), SP600 (small cap) + SP1500
+
+- SP400 + SP600 + SP500 ==> SP1500, which covers 90% of American equity capitalization
+
+INDEX VALUE: ie SP500 @ 4117
+- calculated by
+ (total mcaps)/(unknown divisor), not disclosed to the public
+/5
+
+-----------------------------------------------------------------------------------------------
+HOW: 
+- considered the best gauge (index) for American equity performance, thus is used as a proxy for the stock market performance
+ 
+- better than DJIA (DOW) since it covers more equities in more GICS sectors (500 vs 30), DJIA is price-weighter (higher price = higher weight)
+
+/6
+-----------------------------------------------------------------------------------------------
+- better than NASDAQ, only 100 equities that are the most actively traded on the NASDAQ exchange alone
+
+- SP500 has no name overlaps in the indices, thus an equity in SP500 cannot appear in SP400
+
+-RUSSELL uses a formula to determine composition, SP uses a committee
+
+/7
+-----------------------------------------------------------------------------------------------
+- RUSSEL index can have the same equity appear in "value" index as well as in "growth" index, since it just uses a formula
+
+WHY:
+- why do I need to pay attention to this?
+
+- many money managers and investors will use this index to gauge their performance (batting avg.)...
+
+/8
+-----------------------------------------------------------------------------------------------
+...and the state of the economy (incorrect assumption), so it helps to be aware of SP500 dynamics and how/when to take advantage of opportunities presented against your personal investment thesis
+
+/9
+-----------------------------------------------------------------------------------------------
+ 
+SP500 Limitations:
+- equal-weighted indices are popular b/c ea. stock price movement affects the index the same as one another
+- SPGlobal doesn't list all 500 holdings outside of the TOP 10 along with a sector distribution breakdown
+- 23% index weight cap
+
+/10
+-----------------------------------------------------------------------------------------------
+- the sum of all equities with a weight > 4.8% must be <50% of the total index
+
+TO LEARN MORE VISIT: 
+
+https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview
+https://www.spglobal.com/spdji/en/indices/equity/sp-500/#data
+https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-indices.pdf
+END 🧵
+/11
+-----------------------------------------------------------------------------------------------
+TO LEARN MORE VISIT: 
+
+https://www.spglobal.com/spdji/en/indices/equity/sp-500/#overview
+https://www.spglobal.com/spdji/en/indices/equity/sp-500/#data
+https://www.spglobal.com/spdji/en/documents/methodologies/methodology-sp-us-indices.pdf
+END 🧵
+
+-----------------------------------------------------------------------------------------------

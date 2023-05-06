@@ -1,0 +1,20 @@
+{
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "genieai.openai.model": "gpt-4",
+    "genieai.enableConversationHistory": true,
+    "genieai.openai.maxTokens": 4096,
+    "genieai.promptPrefix.customPrompt1-enabled": true,
+    "genieai.promptPrefix.customPrompt2-enabled": true,
+    "genieai.promptPrefix.customPrompt2": "Optimize with C++ Code",
+    "genieai.promptPrefix.customPrompt1": "Convert to R code",
+    "genieai.openai.temperature": 0,
+    "terminal.integrated.shellArgs.windows": [
+        "-NoExit",
+        "-Command",
+        "Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope Process"
+    ],
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.black-formatter"
+    },
+    "python.formatting.provider": "none"
+}
