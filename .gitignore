@@ -4,5 +4,5 @@
 # Ignore .env files containing secrets
 *.env
 
-credentials.json
-token.json
+ORGHI/credentials.json
+ORGHI/token.json
