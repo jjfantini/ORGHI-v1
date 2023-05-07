@@ -6,7 +6,7 @@
     "genieai.promptPrefix.customPrompt1-enabled": true,
     "genieai.promptPrefix.customPrompt2-enabled": true,
     "genieai.promptPrefix.customPrompt2": "Optimize with C++ Code",
-    "genieai.promptPrefix.customPrompt1": "Convert to R code",
+    "genieai.promptPrefix.customPrompt1": "Can you please generate a python docstring for this code, only return the docstring and not the code",
     "genieai.openai.temperature": 0,
     "terminal.integrated.shellArgs.windows": [
         "-NoExit",
