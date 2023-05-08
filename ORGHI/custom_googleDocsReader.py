@@ -37,7 +37,7 @@ def generate_googleDoc_index():
     # 2.3: define LLM
     llm_predictor = LLMPredictor(
         llm=OpenAI(
-            temperature=0.5,
+            temperature=0.2,
             model_name="text-davinci-003",
             max_tokens=num_outputs,
         )
