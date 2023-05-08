@@ -65,7 +65,7 @@ def generate_googleDoc_index():
     index.save_to_disk("GPT_index/googleDoc_index.json")
 
 
-# TEST - query the chosen document
+# TEST - query the chosen document, ask_ai() be moved to a main() file
 ask_ai(index_name="GPT_index/googleDoc_index")
 
 # Create a function that retireves all available document ids from google drive folder ORGHI Knowledge
